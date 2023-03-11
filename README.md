@@ -1,7 +1,7 @@
-##Wallpaper Changer Script
+# Wallpaper Changer Script
 This script allows you to automatically change your desktop wallpaper based on the current season and temperature in your location (city must be specified). I personally created it to change wallpapers after booting up Windows 10 (by adding it to system startup). It has not been tested on other OS and is not planned to be tested.
 
-#Usage
+## Usage
 1. Download the script and open it with any text editor of your choice.
 2. Install the latest version of Python from https://www.python.org/downloads/
 3. In the location = "your_city" line, replace your_city with the full name of your city in Latin letters.
